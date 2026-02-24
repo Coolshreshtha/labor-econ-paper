@@ -9,3 +9,6 @@ Repository for all project related files
 - [ ] Find dataset for automation
 - [X] Set up repository @Anushka
 - [ ] Set repo to private
+
+## References to review
+https://www.aeaweb.org/articles?id=10.1257/pandp.20181021 
